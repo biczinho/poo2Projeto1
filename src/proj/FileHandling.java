@@ -2,7 +2,6 @@ package proj;
 
 import java.io.*;
 import java.util.ArrayList;
-
 import javax.swing.JOptionPane;
 
 public class FileHandling {
@@ -16,7 +15,7 @@ public class FileHandling {
 	public ArrayList<String> readFile() {
 		ArrayList<String> lines = new ArrayList<String>();
 		try {
-			FileInputStream fstream = new FileInputStream(this.fileName);
+			FileInputStream fstream = new FileInputStream(this.fileName + ".txt");
 			DataInputStream dstream = new DataInputStream(fstream);
 			BufferedReader br = new BufferedReader(new InputStreamReader(dstream));
 
@@ -39,7 +38,7 @@ public class FileHandling {
 			System.out.println(line);
 	}
 
-//	metodo recebe uma ArrayList<String> e retorna uma ArrayList<String> separando cada palavra em uma linha
+//	method to run through a ArrayList<String> and split every word into a separate line
 	public ArrayList<String> splitByWord(ArrayList<String> al) {
 		ArrayList<String> wordList = new ArrayList<String>();
 
@@ -54,5 +53,16 @@ public class FileHandling {
 			}
 		}
 		return wordList;
+	}
+
+	public void writeGraphAsCSV(Graph graph) {
+		PrintWriter writer;
+		try {
+			writer = new PrintWriter(new File(fileName + ".csv"));
+			writer.write(graph.toString());
+			writer.close();
+		} catch (FileNotFoundException e) {
+			JOptionPane.showMessageDialog(null, "File not found by the CSV Writer!");
+		}
 	}
 }

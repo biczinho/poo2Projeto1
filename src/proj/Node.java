@@ -23,11 +23,21 @@ public class Node {
 
 	public void addDestination(String word) {
 		destination.add(word);
+//		return this;
 	}
 
 	public void printNode() {
 		System.out.print(origin);
 		for (String aux : destination)
 			System.out.print(", " + aux);
+	}
+
+	public String toString() {
+		StringBuilder str = new StringBuilder();
+		str.append(this.origin);
+		str.append(", ");
+		for (String aux : destination)
+			str.append(aux);
+		return str.toString();
 	}
 }
