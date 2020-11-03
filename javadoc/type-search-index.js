@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"proj","l":"FileHandling"},{"p":"proj","l":"GephiFormat"},{"p":"proj","l":"Graph"},{"p":"proj","l":"Index"},{"p":"proj","l":"Node"}]

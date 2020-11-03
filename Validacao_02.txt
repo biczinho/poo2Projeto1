@@ -1,0 +1,68 @@
+COVID-19
+Tecnologias para neutralizar o coronavírus
+Empresas investem em soluções de segurança e desinfecção na tentativa de reduzir o risco de contaminação pelo Sars-CoV-2 na retomada das atividades
+
+
+Máscara e camiseta da Malwee dotadas da tecnologia antimicrobiana ViroBlock
+Malwee
+
+
+Rubem Barros
+14:00
+9 ago 2020
+Atualizado em
+28 ago 2020
+InovaçãoSaúde PúblicaTecnologia
+Desinfecção, inativação, eliminação, rastreamento. Com a epidemia de Sars-CoV-2, esses termos se tornaram rotineiros no Brasil e no mundo. Estão associados a uma série de novas tecnologias e soluções concebidas ou adaptadas para minimizar os riscos de contrair o vírus causador da Covid-19 e permitir a circulação social e a volta às atividades. O comércio e o setor industrial, que não podem prescindir do convívio entre um número grande de pessoas no mesmo espaço, foram os primeiros a experimentar essas inovações.
+
+Em sua unidade fabril em Indaiatuba, no interior paulista, a Unilever testou recentemente um projeto-piloto criado pela empresa paranaense Certus Software, com o objetivo de garantir o distanciamento entre seus 500 funcionários. Batizado de ISafeWalk, o sistema funciona por meio de um cartão, com a mesma dimensão de um de crédito, apenas um pouco mais grosso, com 4 a 6 milímetros (mm).
+
+Equipado com Bluetooth, o dispositivo é monitorado por um software, que recebe informações sobre sua localização por meio de antenas do tipo gateway – como as usadas na saída de lojas para controle de mercadorias –, espalhadas pelo ambiente. Um alerta vibratório é emitido sempre que dois usuários do dispositivo se aproximarem a uma distância inferior a 2 metros (m).
+
+“Os dados dos cartões são armazenados em nuvem. No caso de uma pessoa contaminada, podemos identificar o histórico de contatos e os locais por onde ela passou nos dias anteriores ao diagnóstico, no local de trabalho, para que as pessoas sejam alertadas e o ambiente descontaminado”, explica o administrador de empresas Fábio Ieger, CEO da Certus.
+
+Ieger conta que a empresa já fornecia para a Unilever produtos de gestão empresarial com foco em produtividade, especialidade da Certus, quando surgiu a nova demanda. O teste foi feito numa área restrita da fábrica, que, no total, tem 109 mil metros quadrados (m²). O princípio da ferramenta é o mesmo dos dispositivos que fazem rastreamento de contato, existentes em outros países. A novidade da Certus foi adaptá-lo a ambientes fechados. A Unilever manifestou-se, por meio de sua assessoria de imprensa, informando que, oficialmente, o ISafeWalk ainda está sob análise. 
+
+A multinacional sueca Axis também disponibiliza um aplicativo que pode ajudar a evitar aglomerações. É o Occupancy Estimator, dispositivo que utiliza câmeras para fazer, em tempo real, a estimativa do número de frequentadores de determinado ambiente. Como o App fica acoplado à própria câmera, não demanda espaço de armazenagem em servidores. A tecnologia é uma alternativa para o controle de fluxo em locais com grande movimentação de pessoas, como lojas e centros comerciais.
+
+Já operacional, a solução foi remodelada para a necessidade do momento – antes era empregada para melhorar a utilização de espaços internos de lojas, mostrando, por exemplo, o que gerava mais interesse nos consumidores. De acordo com a Axis, os relatórios gerados pela ferramenta podem ser compartilhados com clientes em potencial para informar sobre os horários de pico ou quando o ambiente estiver próximo da capacidade recomendada para a segurança de todos.
+
+Adesivo antimicrobiano Cobrex: testado em barras de apoio de trem carioca
+Cecil
+Cobre contra o vírus
+Outra tecnologia voltada a lugares de intensa circulação e pensada para eliminar o coronavírus é o adesivo Cobrex, já em teste em um vagão de trem carioca da empresa Supervia. Trata-se de uma lâmina fina de cobre colada a uma folha adesiva, aplicada diretamente em portas, maçanetas, alças, corrimãos e barras de apoio, locais com maior probabilidade de contato com partes do corpo. Por ser muito fino, é impossível arrancar o adesivo sem danificá-lo.
+
+“O cobre, quando em contato com bactérias e vírus, libera íons que atacam sua membrana e danificam seu material genético, impedindo que prolifere. Sua ação bactericida é continua”, explica a economista Maria Antonietta Cervetto, CEO da Cecil, empresa responsável pelo Cobrex, localizada em Itapevi, na Região Metropolitana de São Paulo. Um estudo feito em março por cientistas do Instituto Nacional de Alergia e Doenças Infecciosas dos Estados Unidos e da Universidade de Princeton (EUA) indicou que não foram encontradas partículas ativas do vírus após quatro horas em contato com o cobre. 
+
+Os adesivos Cobrex foram instalados em um vagão do trem carioca em 9 de junho para, duas semanas depois, terem amostras recolhidas para contagem de microrganismos nas superfícies com cobre e sem cobre. Os resultados estão previstos para ser divulgados em meados de agosto. 
+
+A empresa tem também um segundo projeto, que prevê a adição de nanopartículas de cobre em tintas e vernizes. O objetivo é que, ao revestir paredes com o pigmento, haja diminuição das bactérias e vírus presentes no ambiente. Esse produto está sendo testado no Laboratório de Biotecnologia do Instituto de Pesquisas Tecnológicas (IPT), em São Paulo. Segundo a farmacêutica bioquímica Natália Cerize, responsável pela avaliação das nanopartículas, os testes utilizam diferentes linhagens bacterianas e um coronavírus canino como modelo para avaliação do efeito microbiano e antiviral. O projeto prevê outras aplicações na indústria têxtil, agrícola e de saúde animal e humana.
+
+Roupas antivirais
+Assim como o cobre, a prata também tem propriedades que rompem a estrutura envoltória dos vírus, inativando o RNA ou DNA. Foi uma solução com essas características que a fabricante têxtil Malwee, de Santa Catarina, decidiu incorporar aos seus produtos. A linha Malwee Protege foi criada a partir de uma parceria com a empresa suíça HeiQ, detentora da tecnologia antimicrobiana ViroBlock, composta por sais de prata e lipossomas (vesículas manométricas utilizadas como carreadoras de ingredientes).
+
+A inovação, já aprovada contra o Sars-Cov-2 por um laboratório australiano, foi recentemente testada pela Universidade Estadual de Campinas (Unicamp). Havia duas rotas para inserir o composto químico na composição das malhas, camisetas e máscaras: no beneficiamento do tecido ou na etapa da tinturaria. “Optamos pela tinturaria, pois é a área em que temos processos mais automatizados e com maior nível de controle”, relata o engenheiro têxtil Luiz Thiago de Freitas, gerente industrial da Malwee.
+
+Uma tecnologia semelhante à ViroBlock vai ser utilizada na linha de camisetas customizadas da tecelagem Basicamente, cujas peças são fabricadas pela Malwee. A novidade está prevista para chegar ao mercado em meados de agosto. A tecnologia antiviral será fornecida pela startup de nanotecnologia Nanox, de São Carlos (SP). “Desenvolvemos um aditivo à base de prata, batizado de AG+Fresh, e fizemos testes em tecidos com o ICB [Instituto de Ciências Biomédicas] da USP [Universidade de São Paulo]”, conta o químico Gustavo Simões, um dos sócios da empresa. A Nanox recebeu apoio do programa Pesquisa Inovativa em Pequenas Empresas (Pipe), da FAPESP, para o desenvolvimento do AG+Fresh, bem como do NanoxClean, aditivo que é o carro-chefe da empresa (ver Pesquisa FAPESP nº 288).
+
+O laudo do ICB atestou a efetividade do produto e oito tecelagens têm homologação para usar o aditivo antiviral, cuja fixação no tecido ocorre por meio da mistura dos sais de prata com compostos cerâmicos, formando um polímero que favorece a aderência. Tanto no caso do ViroBlock quanto no do AG+Fresh, as roupas e máscaras contendo prata resistem a 30 lavadas, segundo os fabricantes. 
+
+Raios ultravioleta
+A paulista BioLambda também desenvolveu soluções para atender a demandas surgidas com a epidemia. Fundada em 2017 com foco no desenvolvimento de artefatos ópticos e fotônicos para pesquisa científica, a startup adaptou suas tecnologias, dotadas de luzes ultravioleta (UV), para a inativação de microrganismos. “A radiação eletromagnética da luz UV interage com biomoléculas e desencadeia reações químicas indutoras de efeitos que eliminam patógenos”, resume o bacharel em ciências fundamentais para a saúde Caetano Sabino, sócio-fundador da empresa e membro do comitê científico da Associação Mundial de Terapia com Lasers. 
+
+Descontaminador UVmask, da BioLambda: radiação UV para desinfectar máscaras
+BioLambda
+O resultado desse esforço deu origem a três linhas de descontaminadores. Destinado a máscaras, o UVmask é capaz de desinfectar quatro unidades do modelo hospitalar N-95 a cada cinco minutos. As peças giram dentro do aparelho enquanto recebem um banho de radiação UV. O equipamento para ambientes, UVair, é dotado de um exaustor interno que suga o ar, direcionando-o para um filtro e uma câmera de luz, responsável pela descontaminação. Por fim, a máquina portátil UVsurface destina-se à desinfecção de superfícies e objetos. Todos equipamentos já estão sendo comercializados e tiveram sua eficácia microbicida comprovada por instituições como USP, Instituto de Pesquisas Energéticas e Nucleares (Ipen) e Faculdade São Leopoldo Mandic (SLMandic), em São Paulo.
+
+Sabino lembra que não há solução universal para a eliminação de bactérias, vírus e fungos. A luz ultravioleta, como as soluções à base de cloro e outros oxidantes, não pode ser aplicada diretamente sobre a pele ou olhos, pois pode causar lesões graves. No caso da desinfecção de objetos, toda a sua superfície precisa entrar em contato com a luz.
+
+Esterilização com ozônio
+Adaptado para o combate à Covid-19, o gerador de ozônio Panozon era, há até bem pouco tempo, utilizado para tirar odores de objetos. O engenheiro eletrônico Carlos Heise, dono da Panozon Ambiental, especializada em tratamento de água e ar com ozônio, conseguiu, em abril, no Laboratório de Virologia do Instituto de Biologia da Unicamp, laudo certificando a eficácia do modelo O3Care M50 contra o novo coronavírus. O equipamento consiste em uma câmara de esterilização com capacidade de 35 litros. Os testes de eficiência foram feitos com um betacoronavírus de características semelhantes ao Sars-CoV-2.
+
+“Adaptei o aparelho pensando na esterilização de materiais utilizados em cirurgias e em consultórios médicos e dentários. O ozônio elimina 99,99% das partículas virais”, diz Heise. Até o momento, o Panozon é vendido apenas para hotéis, promotores de eventos e locais que lidam com grandes volumes de correspondências e dinheiro. Sua aplicação no setor da saúde ainda aguarda autorização da Anvisa. 
+
+O ozônio, segundo o engenheiro, apresenta vantagens em relação a outros métodos de desinfecção, como o fato de ser uma tecnologia limpa, gerada por meio de uma descarga elétrica em partículas de oxigênio que depois voltam à sua formulação original. Além disso, sua ação oxidante, quando comparada à do cloro, é maior e mais rápida. Como outras substâncias, o ozônio consegue romper o material envoltório do vírus e inativá-lo.
+
+Projetos
+1. Desenvolvimento de equipamento inteligente para aplicação clínica de fototerapias com ajuste dosimétrico automático e pagamento sob demanda (nº 17/22406-0); Modalidade Pesquisa Inovativa em Pequenas Empresas (Pipe); Pesquisador responsável Caetano Padial Sabino (Biolambda); Investimento R$ 189.458,65.
+2. Síntese e aplicação de materiais refletivos nanoestruturados (nº 17/15924-4) Modalidade Pesquisa Inovativa em Pequenas Empresas (Pipe); Pesquisador responsável Guilherme Carvalho Tremiliosi (Nanox); Investimento R$ 173.709,82.
